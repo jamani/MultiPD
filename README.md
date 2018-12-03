@@ -1,2 +1,2 @@
 # MultiPD
-A platform for Multiscale MultiPhysics Discretization
+A platform for MultiPhysics Discretization
