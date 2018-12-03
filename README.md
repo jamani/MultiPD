@@ -1,2 +1,2 @@
 # MultiPD
-Multiscale Multiscale discretization of Partial Differential equations
+A platform for Multiscale MultiPhysics Discretization
